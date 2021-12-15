@@ -8,6 +8,8 @@ The arduino code will control two Pololu motors each one attached to a wheel. Th
 If you want to try  the maze solver download laberinto-codigo.py a make a file with the extension .txt this file will perform as a maze
 
 
+<p align="center">
+Hi there <img src="https://i.postimg.cc/N0xk6MPj/Screenshot-2021-12-15-144642.jpg"></p>
 <p align="center">![](https://i.postimg.cc/N0xk6MPj/Screenshot-2021-12-15-144642.jpg)</p>
 ![](https://i.postimg.cc/g2VVpjpH/Screenshot-2021-12-15-144720.jpg)
 The code will solve the maze and make an image with the solucion
