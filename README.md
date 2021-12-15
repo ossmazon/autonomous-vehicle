@@ -9,9 +9,10 @@ If you want to try  the maze solver download laberinto-codigo.py a make a file w
 
 
 <p align="center">
-Hi there <img src="https://i.postimg.cc/N0xk6MPj/Screenshot-2021-12-15-144642.jpg"></p>
-<p align="center">![](https://i.postimg.cc/N0xk6MPj/Screenshot-2021-12-15-144642.jpg)</p>
-![](https://i.postimg.cc/g2VVpjpH/Screenshot-2021-12-15-144720.jpg)
+<img src="https://i.postimg.cc/N0xk6MPj/Screenshot-2021-12-15-144642.jpg"></p>
+<p align="center">
+<img src="https://i.postimg.cc/g2VVpjpH/Screenshot-2021-12-15-144720.jpg"></p>
+
 The code will solve the maze and make an image with the solucion
 
 To run the code follow the syntaxis.
